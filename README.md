@@ -88,7 +88,7 @@ You need JAR file to test this script and make sure your JAR file is able to run
    ```
 <a name="prerequisites"></a>
 ### 🔑 Prerequisites
-No need to add any special prerequisites. Just clone with above git clone and you OS have to be Linux OS or Mac Os.
+No need to add any special prerequisites. Just clone with above git clone command and your OS have to be Linux OS or Mac Os.
 
 
 <a name="instruction"></a>
