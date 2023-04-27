@@ -115,7 +115,7 @@ So, Please make sure your jar file is able to run first.
 * Please note that if your JAR file is `not in the same directory` with this script, you need to type JAR file name which `including the valid path`. (eg. /home/app/employeeService.jar).
 * After that you can see the message like service is `successfully started`, and you can call your application as it's alive after starting the service.
 * Please note that, my script `won't generate log file` to see your application logs.
-* So, if you want to see your application logs, you need to generate logs file by using logging tools like log4s, etc.
+* So, if you want to see your application logs, you need to generate logs file by using logging tools like log4j, etc.
 <h1 align="center">
   Start Sample 1
   <img src="https://github.com/yewin-mm/java-runner/blob/master/github/template/images/overview/serviceAStart.png" /><br/>
