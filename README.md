@@ -198,7 +198,7 @@ So, Please make sure your jar file is able to run first.
 * You can see the running services list and total count.
 * This script will request you to type the number from running services list which you want to `stop`.
 * Please note that you need to `type only the number` of your services as this script will accept number only.
-* After you type the number, the script will restart your application.
+* After you type the number, the script will stop your application.
 <h1 align="center">
   Stop Sample
   <img src="https://github.com/yewin-mm/java-runner/blob/master/github/template/images/overview/stop.png" /><br/>
